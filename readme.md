@@ -1,6 +1,6 @@
 # Clone da página inicial do Spotify
   
-Este é um projeto desenvolvido utilizando HTML5, CSS3, Bootstrap e Media Query. <br>
+Este é um projeto desenvolvido utilizando HTML5, CSS3, Bootstrap. <br>
 O objetivo deste projeto é criar uma página web responsiva e acessível, capaz de adaptar-se a diferentes dispositivos e tamanhos de tela.
 
 ### Como utilizar
